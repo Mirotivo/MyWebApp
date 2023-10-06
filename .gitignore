@@ -1,0 +1,7 @@
+# .NET Core
+.vscode/
+bin/
+obj/
+
+# Visual Studio
+.vs/
